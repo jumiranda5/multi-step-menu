@@ -1,5 +1,5 @@
 import pytest
-from step import Step
+from menusteps.step import Step
 
 # Step(0, "Step 1:", "Type the option number: ")
 

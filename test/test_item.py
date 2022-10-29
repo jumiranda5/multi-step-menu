@@ -1,5 +1,5 @@
 import pytest
-from item import Item
+from menusteps.item import Item
 
 def test_text():
     with pytest.raises(ValueError):

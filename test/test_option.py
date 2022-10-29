@@ -1,6 +1,6 @@
 import pytest
-from item import Item
-from option import Option
+from menusteps.item import Item
+from menusteps.option import Option
 
 
 options = [
