@@ -3,7 +3,6 @@ from menusteps import menu
 from menusteps.item import Item
 from menusteps.option import Option
 from menusteps.step import Step
-from colorama import Fore, Style
 
 
 # List of steps
@@ -41,6 +40,6 @@ def print_welcome():
     print("       Welcome to Multi Step Menu!")
     print("-------------------------------------------\n" + Style.RESET_ALL)
 
+
 if __name__ == "__main__":
-    main()
-    
+    main()    
