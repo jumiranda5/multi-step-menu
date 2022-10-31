@@ -8,6 +8,13 @@ This package has not been uploaded to PyPI (at least not yet).
 
 Therefore, you need to download the menusteps folder and place it on your project.
 
+In addition, this package uses the Colorama library. So, you would have to install it:
+```python
+pip install colorama
+# or
+conda install -c anaconda colorama
+```
+
 
 ## Usage
 
